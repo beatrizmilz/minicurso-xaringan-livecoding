@@ -1,5 +1,5 @@
 ---
-title: "Exemplo de live coding"
+title: "Exemplo de live coding ALTERADO"
 subtitle: "com o pacote xaringan"  
 author: 
   - "Beatriz"
